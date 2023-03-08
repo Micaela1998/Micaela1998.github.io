@@ -25,7 +25,7 @@ var coll = document.getElementsByClassName("collapsible");
   }
 
   function myFunction3() {
-    location.replace("https://github.com/Micaela1998/Micaela1998.github.io/blob/main/fotosnoahcastro.html")
+    location.replace("https://github.com/Micaela1998/Micaela1998.github.io/blob/articulos/fotosnoahcastro.html")
   }
 
 
