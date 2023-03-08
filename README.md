@@ -1,5 +1,48 @@
-# Micaela1998.github.io
-El objetivo es mirar primero el html llamado "principalnoahcastro" ("principalnoahcastro.html"), en el cual hay tres botones: 
-- uno dirige al cv ("curriculum.html") 
-- otro a un portfolio de dibujos ("dibujosportfolionoahcastro.html")
-- y otro a un porfolio de imagenes ("fotosnoahcastro.html")
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="CSS\estilocv.css">
+    <link rel="icon" type="image/x-icon" href="34.jpg">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300&family=Libre+Baskerville&family=Mynerve&display=swap" rel="stylesheet">
+    <title>Presentacion Noah Castro</title>
+</head>
+<body>
+
+    <img src="34.jpg" alt="Foto de Noah Castro en blanco y negro" 
+    height="150px" width="150px"/>
+
+    <h1>Noah Castro</h1>
+    <h2>Presentación</h2>
+    <p>Mis primeros recuerdos son dibujando, en las hojas, calles y paredes. 
+        En cuanto me recibí estudié bellas artes en la UBA, 
+        me dediqué profesionalmente al dibujo por muchos años; para poder profundizarme en un 
+        aspecto más tecnológico, estudié diseño gráfico, carrera que me condujo hacia una de mis más recientes 
+        pasiones: la programación.
+        Aún soy relativamente nuevo en este mundo, pero deseoso de aprender y poder trabajar en un ambiente 
+        que permita mi desarrollo personal, en el cual a su vez pueda aportar mis conocimientos y energía.
+    </p>
+
+      <button onclick="myFunction()">Ir a mi CV</button>
+
+      <button onclick="myFunction2()">Ir a mi Arte</button>
+
+      <button onclick="myFunction3()">Ir a mis Fotos</button>
+
+      <script src="JS/java.js"></script>
+
+
+    <footer>
+        <h3>Contacto</h3>
+          <ul>
+              <li>+64 3 11 4747-4747</li>
+              <li>noah.castro@example.com</li>
+              <li>linkedin.com/in/name</li>
+          </ul>
+      </footer>
+</body>
+</html>
