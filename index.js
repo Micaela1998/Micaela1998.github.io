@@ -17,7 +17,7 @@ var coll = document.getElementsByClassName("collapsible");
   }
 
   function myFunction() {
-    location.replace("W:\DibusLuna\trabajo final curriculum\curriculum.html")
+    location.replace("https://github.com/Micaela1998/Micaela1998.github.io/blob/main/curriculum.html")
   }
 
   function myFunction2() {
