@@ -21,7 +21,7 @@ var coll = document.getElementsByClassName("collapsible");
   }
 
   function myFunction2() {
-    location.replace("https://github.com/Micaela1998/Micaela1998.github.io/blob/main/dibujosportfolionoahcastro.html")
+    location.replace("https://github.com/Micaela1998/Micaela1998.github.io/tree/main/dibujos/index.html")
   }
 
   function myFunction3() {
